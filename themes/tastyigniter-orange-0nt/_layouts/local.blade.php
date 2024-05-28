@@ -7,7 +7,7 @@ description: 'Local layout'
 '[staticMenu footerMenu]':
     code: footer-menu
 '[newsletter]': {  }
-'[localePicker]':
+'[localePicker]': null
 '[localSearch]': null
 '[localBox]':
     paramFrom: location
